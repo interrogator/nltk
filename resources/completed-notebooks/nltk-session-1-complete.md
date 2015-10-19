@@ -368,8 +368,7 @@ Advantages of functions:
 1. Save you typing
 2. You can be sure you're doing exactly the same operation every time
 
-> **Note** Learn to love tab-completion! Typing the first one or two letters of
-a command you've used previously then hitting tab will auto-complete that command, saving you typing (i.e. time and mistakes!).
+> **Note** Learn to love tab-completion! Typing the first one or two letters of a command you've used previously then hitting tab will auto-complete that command, saving you typing (i.e. time and mistakes!).
 
 <markdown cell>
 **Challenge!**
